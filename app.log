@@ -1,0 +1,146 @@
+[2017-Jun-21 12:22] 127.0.0.1 HEAD http /? 200 OK
+[2017-Jun-21 12:22] 31.168.18.212 POST http /? 400 BAD REQUEST
+[2017-Jun-21 12:23] 31.168.18.212 POST http /? 400 BAD REQUEST
+[2017-Jun-21 15:46] 127.0.0.1 GET http /? 200 OK
+[2017-Jun-21 15:46] 127.0.0.1 GET http /? 200 OK
+[2017-Jun-21 15:47] 127.0.0.1 GET http /? 200 OK
+[2017-Jun-21 15:48] 127.0.0.1 GET http /? 200 OK
+niiiiice
+[2017-Jun-21 15:49] 127.0.0.1 GET http /? 200 OK
+niiiiice
+niiiiice
+JSON = 12.12.12.12
+JSON = 12.12.12.12
+JSON = 12.12.12.12
+JSON = 12.12.12.12
+JSON = 12.12.12.12
+JSON = 12.12.12.12
+JSON = 12.12.12.12
+JSON = 12.12.12.12
+JSON = 12.12.12.12
+JSON = 12.12.12.12
+{
+  "access": "Allow",
+  "description": "Temporary IP address",
+  "destinationAddressPrefix": "*",
+  "destinationPortRange": "80",
+  "direction": "Inbound",
+  "etag": "W/\"66d3d7bf-0cab-4597-8fbb-7dc00f421c8f\"",
+  "id": "/subscriptions/ad2a99d0-2637-42dc-9305-8945c81f1991/resourceGroups/aviv-openstack/providers/Microsoft.Network/networkSecurityGroups/splunk-nsg/securityRules/temporary-ip-address68191315",
+  "name": "temporary-ip-address68191315",
+  "priority": 300,
+  "protocol": "*",
+  "provisioningState": "Succeeded",
+  "resourceGroup": "aviv-openstack",
+  "sourceAddressPrefix": "12.12.12.12",
+  "sourcePortRange": "*"
+}
+
+JSON = 0
+JSON = 0
+JSON = 0
+JSON = 12.12.12.12
+
+JSON = 12.12.12.12
+{
+  "access": "Allow",
+  "description": "Temporary IP address",
+  "destinationAddressPrefix": "*",
+  "destinationPortRange": "80",
+  "direction": "Inbound",
+  "etag": "W/\"20cc56ff-ede1-423e-bb84-84cf623abf42\"",
+  "id": "/subscriptions/ad2a99d0-2637-42dc-9305-8945c81f1991/resourceGroups/aviv-openstack/providers/Microsoft.Network/networkSecurityGroups/splunk-nsg/securityRules/temporary-ip-address3511",
+  "name": "temporary-ip-address3511",
+  "priority": 3511,
+  "protocol": "*",
+  "provisioningState": "Succeeded",
+  "resourceGroup": "aviv-openstack",
+  "sourceAddressPrefix": "12.12.12.12",
+  "sourcePortRange": "*"
+}
+
+JSON = 12.12.12.12
+{
+  "access": "Allow",
+  "description": "Temporary IP address",
+  "destinationAddressPrefix": "*",
+  "destinationPortRange": "80",
+  "direction": "Inbound",
+  "etag": "W/\"602232d9-be1d-4ec1-9c5c-4eb0773068e0\"",
+  "id": "/subscriptions/ad2a99d0-2637-42dc-9305-8945c81f1991/resourceGroups/aviv-openstack/providers/Microsoft.Network/networkSecurityGroups/splunk-nsg/securityRules/temporary-ip-address3654",
+  "name": "temporary-ip-address3654",
+  "priority": 3654,
+  "protocol": "*",
+  "provisioningState": "Succeeded",
+  "resourceGroup": "aviv-openstack",
+  "sourceAddressPrefix": "12.12.12.12",
+  "sourcePortRange": "*"
+}
+
+JSON = 12.12.12.12
+{
+  "access": "Allow",
+  "description": "Temporary IP address",
+  "destinationAddressPrefix": "*",
+  "destinationPortRange": "80",
+  "direction": "Inbound",
+  "etag": "W/\"25e835fa-5c0d-44cd-8cf0-83b6c255ffc5\"",
+  "id": "/subscriptions/ad2a99d0-2637-42dc-9305-8945c81f1991/resourceGroups/aviv-openstack/providers/Microsoft.Network/networkSecurityGroups/splunk-nsg/securityRules/temporary-ip-address1720",
+  "name": "temporary-ip-address1720",
+  "priority": 1720,
+  "protocol": "*",
+  "provisioningState": "Succeeded",
+  "resourceGroup": "aviv-openstack",
+  "sourceAddressPrefix": "12.12.12.12",
+  "sourcePortRange": "*"
+}
+
+JSON = 12.12.12.12
+{
+  "access": "Allow",
+  "description": "Temporary IP address",
+  "destinationAddressPrefix": "*",
+  "destinationPortRange": "80",
+  "direction": "Inbound",
+  "etag": "W/\"1e36b98e-b727-4a02-8dd2-0c3481c8e913\"",
+  "id": "/subscriptions/ad2a99d0-2637-42dc-9305-8945c81f1991/resourceGroups/aviv-openstack/providers/Microsoft.Network/networkSecurityGroups/splunk-nsg/securityRules/temporary-ip-address1935",
+  "name": "temporary-ip-address1935",
+  "priority": 1935,
+  "protocol": "*",
+  "provisioningState": "Succeeded",
+  "resourceGroup": "aviv-openstack",
+  "sourceAddressPrefix": "12.12.12.12",
+  "sourcePortRange": "*"
+}
+
+
+
+
+
+JSON = 12.12.12.12
+{
+  "access": "Allow",
+  "description": "Temporary IP address",
+  "destinationAddressPrefix": "*",
+  "destinationPortRange": "80",
+  "direction": "Inbound",
+  "etag": "W/\"d594e443-97b8-4b41-aff3-20e81c576f71\"",
+  "id": "/subscriptions/ad2a99d0-2637-42dc-9305-8945c81f1991/resourceGroups/aviv-openstack/providers/Microsoft.Network/networkSecurityGroups/splunk-nsg/securityRules/temporary-ip-address692",
+  "name": "temporary-ip-address692",
+  "priority": 692,
+  "protocol": "*",
+  "provisioningState": "Succeeded",
+  "resourceGroup": "aviv-openstack",
+  "sourceAddressPrefix": "12.12.12.12",
+  "sourcePortRange": "*"
+}
+
+
+
+
+
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+GET retrieved
+[2017-Jun-21 21:15] 127.0.0.1 GET http /? 200 OK
+127.0.0.1 - - [21/Jun/2017 21:15:30] "GET / HTTP/1.1" 200 -
