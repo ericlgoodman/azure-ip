@@ -3,4 +3,5 @@ config.py
 passenger*
 *.pyc
 *.log
+*.txt
 !/.gitignore
